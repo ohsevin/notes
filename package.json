@@ -15,17 +15,17 @@
         "min_height": 500
     },
     "dependencies": {
-        "underscore": "1.4.x",
+        "underscore": "1.13.x",
         "jqueryify": "~1.9.1",
         "spine": "~1.1.x",
-        "marked": "0.2.9",
+        "marked": "4.0.10",
         "socket.io-client": "0.9.16",
-        "highlight.js": "7.3.0",
-        "open": "0.0.5",
+        "highlight.js": "10.4.1",
+        "open": "6.0.0",
         "analytics-node": "1.0.4"
     },
     "devDependencies": {
-        "handlebars": "1.0.x",
+        "handlebars": "4.7.x",
         "coffee-script": "1.7.x",
         "browserify": "4.1.x",
         "coffeeify": "0.6.x"
